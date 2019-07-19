@@ -1,0 +1,4 @@
+.idea/*
+*.pyc
+
+!*/migrations/__init__.py
